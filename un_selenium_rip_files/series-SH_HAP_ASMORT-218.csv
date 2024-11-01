@@ -1,0 +1,2 @@
+Goal,Target,Indicator,SeriesCode,SeriesDescription,GeoAreaCode,GeoAreaName,TimePeriod,Value,Time_Detail,TimeCoverage,UpperBound,LowerBound,BasePeriod,Source,GeoInfoUrl,FootNote,[Nature],[Reporting Type],[Units]
+"3","3.9","3.9.1","SH_HAP_ASMORT","Age-standardized mortality rate attributed to household air pollution (deaths per 100,000 population)","218","Ecuador","2019","6","2019","","","","","Global Health Observatory (GHO), World Health Organisation (WHO)","","","E","G","PER_100000_POP"

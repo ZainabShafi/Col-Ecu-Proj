@@ -1,0 +1,3 @@
+Goal,Target,Indicator,SeriesCode,SeriesDescription,GeoAreaCode,GeoAreaName,TimePeriod,Value,Time_Detail,TimeCoverage,UpperBound,LowerBound,BasePeriod,Source,GeoInfoUrl,FootNote,[Nature],[Observation Status],[Reporting Type],[Units]
+"15","15.2","15.2.1","AG_LND_FRSTCHG","Annual forest area change rate (%)","218","Ecuador","2010","-0.52","2000-2010","","","","","FAO. Global Forest Resources Assessment 2020","","Officially reported data","C","A","G","PERCENT"
+"15","15.2","15.2.1","AG_LND_FRSTCHG","Annual forest area change rate (%)","218","Ecuador","2020","-0.42","2010-2020","","","","","FAO. Global Forest Resources Assessment 2020","","Officially reported data","C","A","G","PERCENT"
