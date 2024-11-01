@@ -1,0 +1,3 @@
+Goal,Target,Indicator,SeriesCode,SeriesDescription,GeoAreaCode,GeoAreaName,TimePeriod,Value,Time_Detail,TimeCoverage,UpperBound,LowerBound,BasePeriod,Source,GeoInfoUrl,FootNote,[Nature],[Reporting Type],[Units]
+"15","15.3","15.3.1","AG_LND_DGRD","Proportion of land that is degraded over total land area (%)","218","Ecuador","2015","21.9","2000-2015","","","","","Ministerio de Ambiente, Agua y Transición Ecológica","","","C","G","PERCENT"
+"15","15.3","15.3.1","AG_LND_DGRD","Proportion of land that is degraded over total land area (%)","218","Ecuador","2019","17.5","2016-2019","","","","","Ministerio de Ambiente, Agua y Transición Ecológica","","","C","G","PERCENT"

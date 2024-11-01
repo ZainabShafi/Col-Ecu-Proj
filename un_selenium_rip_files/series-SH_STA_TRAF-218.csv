@@ -1,0 +1,2 @@
+Goal,Target,Indicator,SeriesCode,SeriesDescription,GeoAreaCode,GeoAreaName,TimePeriod,Value,Time_Detail,TimeCoverage,UpperBound,LowerBound,BasePeriod,Source,GeoInfoUrl,FootNote,[Age],[Nature],[Reporting Type],[Sex],[Units]
+"3","3.6","3.6.1","SH_STA_TRAF","Death rate due to road traffic injuries, by sex (per 100,000 population)","218","Ecuador","2021","23.4","2021","","25.3","21.6","","Global Status Report on Road Safety 2023 ( Data come from different sources police data, Ministry of health and Ministry of transport, studies and Survey)","","","","C","G","","PER_100000_POP"

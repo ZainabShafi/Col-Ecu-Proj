@@ -1,0 +1,3 @@
+Goal,Target,Indicator,SeriesCode,SeriesDescription,GeoAreaCode,GeoAreaName,TimePeriod,Value,Time_Detail,TimeCoverage,UpperBound,LowerBound,BasePeriod,Source,GeoInfoUrl,FootNote,[Nature],[Observation Status],[Reporting Type],[Sex],[Units]
+"1","1.3","1.3.1","SI_COV_POOR","[ILO] Proportion of poor population receiving social assistance cash benefit, by sex (%)","218","Ecuador","2019","47.4","2019","","","","","ILO estimates based on national sources","","","E","A","G","BOTHSEX","PERCENT"
+"1","1.3","1.3.1","SI_COV_POOR","[ILO] Proportion of poor population receiving social assistance cash benefit, by sex (%)","218","Ecuador","2021","80.3","2021","","","","","ILO estimates based on national sources","","","E","A","G","BOTHSEX","PERCENT"

@@ -1,0 +1,2 @@
+Goal,Target,Indicator,SeriesCode,SeriesDescription,GeoAreaCode,GeoAreaName,TimePeriod,Value,Time_Detail,TimeCoverage,UpperBound,LowerBound,BasePeriod,Source,GeoInfoUrl,FootNote,[Nature],[Observation Status],[Reporting Type],[Units]
+"6","6.3","6.3.1","EN_WWT_WWDS","Proportion of safely treated domestic wastewater flows (%)","218","Ecuador","2020","31.11171","2020","","","","","WHO 2020","","","E","A","G","PERCENT"
