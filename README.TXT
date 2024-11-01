@@ -1,7 +1,8 @@
 11/1/2024 - Kyle McDaniel
 
 Any data contained here at the moment isn't novel, so it's a decent example of what
-has been accomplished thus far.
+has been accomplished thus far. I do not want "our" data being released as we go along,
+but publicly availalbe and unmodified data shouldn't be controlled.
 
 database_reference_creator : creates a postgres SQL. My idea is for it to eventually
 build the entirety of our backend and fill it with data with date records, and 
